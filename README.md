@@ -1,6 +1,5 @@
 # ifsanocihuy_B
-atau 
-# ifsanoWeeklyKelasB
+
 
 project Mata Kuliah - Pemrograman Berbasis Web | Reg-B | (25/26)
 
@@ -8,3 +7,6 @@ project Mata Kuliah - Pemrograman Berbasis Web | Reg-B | (25/26)
 
 Adisa Nawfal Zia-Ul Alam
 Dengan NIM : 13182420077
+
+atau 
+# ifsanoWeeklyKelasB
